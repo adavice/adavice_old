@@ -1,0 +1,62 @@
+.single-page{
+   padding-bottom: 50px;
+   padding-top: 150px;
+   color: #133f6f;
+}
+.single-page h1{
+    font-size: 45px;
+   padding-bottom: 15px;
+   text-transform: uppercase;
+}
+
+.single-page h2{
+    font-size: 25px;
+    padding-bottom: 15px;
+    padding-left: 0;
+}
+.single-page h3{
+   font-size: 25px;
+    padding-bottom: 30px;
+    padding-left: 0;
+}
+.single-page h4{
+    font-size: 16px;
+    padding-bottom: 10px;
+    padding-left: 0;
+   text-transform: uppercase;
+}
+.single-page h5{
+    font-size: 25px;
+    padding-bottom: 15px;
+    padding-left: 0;
+   text-transform: uppercase;
+}
+.single-page h6{
+    font-size: 20px;
+    padding-bottom: 15px;
+    padding-left: 0;
+   text-transform: uppercase;
+}
+.single-page strong{
+    font-weight: bold;
+}
+.single-page ul{
+    padding-bottom: 15px;
+}
+.single-page p{
+    margin-bottom: 25px;
+}
+.single-page p,
+.single-page li{
+    font-size: 20px;
+    color: #133f6f;
+}
+.single-page ol li{
+     list-style: inside decimal;
+}
+.single-page li{
+    color: #133f6f;
+    list-style: inside;
+    line-height: 1.5;
+   font-family:"Apercu-Pro-Light";
+}
